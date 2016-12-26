@@ -1,0 +1,23 @@
+{
+  "name": "direct-me",
+  "version": "0.0.1",
+  "description": "Server implementation for Crowd based road status ditector",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milankarunarathne/direct-me.git"
+  },
+  "keywords": [
+    "Road",
+    "Map"
+  ],
+  "author": "Milan Karunarathne",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/milankarunarathne/direct-me/issues"
+  },
+  "homepage": "https://github.com/milankarunarathne/direct-me#readme"
+}
